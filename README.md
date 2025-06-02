@@ -10,4 +10,3 @@ Summary:
 8. 1st class passengers had better survival rates.
 9. Children and higher-paying passengers were more likely to survive.
 10. Dataset is now clean and ready for machine learning modeling.
-
